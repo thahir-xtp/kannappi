@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "<img src="A4edits.jpg"  width="200" height="200"/>
+  r_text[0] = <img src="A4edits.jpg"  width="200" height="200"/>
     
     
     var i = Math.floor(1*Math.random())
